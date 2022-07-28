@@ -1,0 +1,106 @@
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+
+header{
+      overflow:auto;
+      background-color:#849561;
+      color:#ECEFD8;
+    }
+
+    
+nav{
+        float:right;
+    }
+    
+.logo {
+        float:left;
+    }
+
+.logo_image {
+    width:100px;
+    padding:20px;
+    }
+    
+.logo_h1{
+    padding:30px 10px;
+    }
+    
+.ult li{
+    display: inline-block;
+    padding:40px 10px;
+    font-size:20px;
+    }
+
+
+ p{
+        text-align: center;
+        font-size: 70px;
+    
+    }
+    
+
+
+h2{
+    margin: 25px;
+    font-size: 60px;
+
+
+}
+
+.card {
+    display: inline-block;
+    margin : 20px;
+    width: 25%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px gray;
+      }
+      
+.card img {
+    border-radius: 10px;
+    width: 100%;
+    }
+      
+      
+h3{      
+    margin: 25px;
+    font-size: 20px;
+    color:#393939;
+    }
+
+section {
+        padding:100px ;
+    
+        }
+.sec_h3{
+    font-size: 50px;
+
+}
+    
+
+
+footer{
+    padding: 50px;
+    text-align: center;
+    background-color: #393939;
+    color:#ECEFD8;
+}
+
+
+
+.about_image{
+width: 100%;
+}
+
+.about_paragraph{
+    padding: 40px;
+    text-align: left;
+    font-size: 20px;
+}
+      
+    
+    
